@@ -1,11 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Looong01/loong.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-Useful Chrome Extention---------Cococut!!!!!!
-
+## Useful Chrome Extention---------Cococut!!!!!!
 
 
 https://chrome.google.com/webstore/detail/video-downloader-cococut/gddbgllpilhpnjpkdbopahnpealaklle
